@@ -30,5 +30,5 @@ I have a consistent track record of contributing to the Submitty ecosystem, rang
 
 ### 📫 Let's Connect
 * **GitHub:**  [https://github.com/](https://github.com/shreyashrpawar)
-* **LinkedIn:** [[Your LinkedIn Link](https://www.linkedin.com/in/shreyash-pawar-a592851a3/)]
+* **LinkedIn:** [[www.linkedin.com](https://www.linkedin.com/in/shreyash-pawar-a592851a3/)]
 ---
