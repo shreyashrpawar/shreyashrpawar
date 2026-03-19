@@ -1,7 +1,7 @@
 # Hi, I'm Shreyash! 👋
 
-### 🎓 Graduate Student | Backend & Database Engineer
-I specialize in building scalable, secure, and data-driven systems. Currently, I am an active contributor to the **Submitty** open-source grading platform, focusing on system architecture and security.
+### 🎓 Graduate Student | Backend & Database Enthusiast
+I am focused on building my skills in secure data systems and server-side logic. Currently, I am an active contributor to the **Submitty** open-source grading platform, working on **database security and backend stability.**
 
 ---
 
