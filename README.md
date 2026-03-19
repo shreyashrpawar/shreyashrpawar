@@ -6,18 +6,19 @@ I am passionate about building scalable, secure, and data-driven systems. Curren
 ---
 
 ### 🚀 Submitty Contributions (GSoC 2026)
-I am actively working on improving the data layer and security infrastructure of Submitty.
+I have a consistent track record of contributing to the Submitty ecosystem, ranging from UI bugfixes to core system security.
 
-* **[PR #12590](https://github.com/Submitty/Submitty/pull/12590) | SQL Toolbox Security:** Implemented a "Least Privilege" model by creating a dedicated `readonly` PostgreSQL user and integrating it into the `CONFIGURE_SUBMITTY.py` installation logic.
-* **[PR #12552](https://github.com/Submitty/Submitty/pull/12552) | UI Consistency:** Resolved cursor and navigation issues in the Instructor Dashboard to improve the administrative experience.
+* **[PR #10209 (Merged)](https://github.com/Submitty/Submitty/pull/10209) | Calendar Logic:** Performed a critical null-check fix in `CalendarView.php` to prevent system crashes during calendar rendering.
+* **[PR #12590 (Open)](https://github.com/Submitty/Submitty/pull/12590) | SQL Toolbox Security:** Implemented a "Least Privilege" model by creating a dedicated `readonly` PostgreSQL user and integrating it into the `CONFIGURE_SUBMITTY.py` installation logic.
+* **[PR #12552 (Open)](https://github.com/Submitty/Submitty/pull/12552) | UI Consistency:** Resolved cursor and navigation issues in the Instructor Dashboard.
 * **Current Research:** Deep-diving into the **Autograding Workflow** to propose a high-performance migration of student results from JSON flat-files to a relational PostgreSQL schema ([Issue #12360](https://github.com/Submitty/Submitty/issues/12360)).
-
+  
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Languages:** PHP (Laravel), Python, SQL (PostgreSQL), C++
-* **Backend:** Database Normalization, ETL Logic, System Security, REST APIs
-* **Tools:** Docker, Vagrant, GitHub Actions, Linux SysAdmin
+* **Languages:** PHP (Laravel), Python, SQL (PostgreSQL)
+* **Backend:** Database Normalization, ETL Logic, REST APIs
+* **Tools:** Docker, Vagrant, Linux SysAdmin
 
 ---
 
@@ -28,8 +29,6 @@ I am actively working on improving the data layer and security infrastructure of
 ---
 
 ### 📫 Let's Connect
-* **GitHub:** [Your GitHub Link]
-* **LinkedIn:** [Your LinkedIn Link]
-* **Zulip:** Active on the Submitty Zulip instance.
-
+* **GitHub:**  [https://github.com/](https://github.com/shreyashrpawar)
+* **LinkedIn:** [[Your LinkedIn Link](https://www.linkedin.com/in/shreyash-pawar-a592851a3/)]
 ---
