@@ -10,7 +10,7 @@ I am focused on building robust, secure, and data-driven systems. Currently, I a
 
 * **✅ [PR #10209 (Merged)](https://github.com/Submitty/Submitty/pull/10209) | Calendar Logic** *Performed a critical null-check fix in `CalendarView.php` to ensure system stability during rendering.*
 * **🛡️ [PR #12590 (Open)](https://github.com/Submitty/Submitty/pull/12590) | SQL Toolbox Security** *Implemented a "Least Privilege" security model via a dedicated `readonly` PostgreSQL user and integrated it into the `CONFIGURE_SUBMITTY.py` logic.*
-* **🏗️ [PR #12552 (Open)](https://github.com/Submitty/Submitty/pull/12552) | UI Consistency** *Resolved navigation and interaction issues within the config editor in Instructor Dashboard.*
+* **🏗️ [PR #12552 (Closed)](https://github.com/Submitty/Submitty/pull/12552) | UI Consistency** *Resolved navigation and interaction issues within the config editor in Instructor Dashboard.*
 * **🔍 [Active Research] | Database Expansion (#12360)** *Mapping the autograding workflow to propose a high-performance migration from JSON flat-files to relational PostgreSQL schemas.*
 
 ---
