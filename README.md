@@ -9,7 +9,7 @@
 - 🔧 **2.5+ years** designing ETL workflows, data warehousing solutions, and BI integrations
 - 🏢 Currently at **TCS**, working across insurance and financial services domains (Equity Insurance Ltd, Truist Financial Bank)
 - 🎓 **B.E. in Information Technology** — University of Mumbai
-- 📍 Based in **Thane, India**
+- 📍 Based in **Pune, India**
 - 🌐 Portfolio: [shreyash.ilusion.io](https://shreyash.ilusion.io)
 
 ---
